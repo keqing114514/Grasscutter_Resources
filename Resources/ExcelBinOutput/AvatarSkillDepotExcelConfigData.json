@@ -2390,7 +2390,7 @@
     "skillDepotAbilityGroup": ""
   },
   {
-    "id": 5201,
+    "id": 5201,//雷神技能组
     "energySkill": 10525,
     "skills": [
       10521,
@@ -3294,6 +3294,94 @@
       },
       {
         "proudSkillGroupId": 7223
+      },
+      {},
+      {}
+    ],
+    "skillDepotAbilityGroup": ""
+  },
+  {
+    "id": 7301,
+    "energySkill": 10735,//E技能
+    "skills": [
+      10731,//普攻
+      10732,//大招
+      0,
+      0
+    ],
+    "subSkills": [
+      10003,
+      5073010
+    ],
+    "extraAbilities": [
+      "",
+      "",
+      ""
+    ],
+    "talents": [//命座
+      731,
+      732,
+      733,
+      734,
+      735,
+      736
+    ],
+    "talentStarName": "Talent_Nahida",
+    "inherentProudSkillOpens": [
+      {
+        "proudSkillGroupId": 7321,
+        "needAvatarPromoteLevel": 1
+      },
+      {
+        "proudSkillGroupId": 7322,
+        "needAvatarPromoteLevel": 4
+      },
+      {
+        "proudSkillGroupId": 7323
+      },
+      {},
+      {}
+    ],
+    "skillDepotAbilityGroup": ""
+  },
+  {
+    "id": 7401,
+    "energySkill": 10745,//E技能
+    "skills": [
+      10741,//普攻
+      10742,//大招
+      0,
+      0
+    ],
+    "subSkills": [
+      10002,
+      5074010
+    ],
+    "extraAbilities": [
+      "",
+      "",
+      ""
+    ],
+    "talents": [//天赋
+      741,
+      742,
+      743,
+      744,
+      745,
+      746
+    ],
+    "talentStarName": "Talent_Layia",
+    "inherentProudSkillOpens": [
+      {
+        "proudSkillGroupId": 7421,
+        "needAvatarPromoteLevel": 1
+      },
+      {
+        "proudSkillGroupId": 7422,
+        "needAvatarPromoteLevel": 4
+      },
+      {
+        "proudSkillGroupId": 7423
       },
       {},
       {}
