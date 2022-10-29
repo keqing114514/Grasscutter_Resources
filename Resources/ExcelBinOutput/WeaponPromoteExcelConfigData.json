@@ -123,7 +123,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
@@ -305,7 +305,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
@@ -9272,7 +9272,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
@@ -9454,7 +9454,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
@@ -16655,7 +16655,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
@@ -16837,7 +16837,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
@@ -23518,7 +23518,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
@@ -23700,7 +23700,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
@@ -31298,6 +31298,266 @@
     "requiredPlayerLevel": 50
   },
   {
+    "weaponPromoteId": 14511,
+    "costItems": [
+      {},
+      {},
+      {}
+    ],
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK"
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL"
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT"
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+      }
+    ],
+    "unlockMaxLevel": 20
+  },
+  {
+    "weaponPromoteId": 14511,
+    "promoteLevel": 1,
+    "costItems": [
+      {
+        "id": 114041,
+        "count": 5
+      },
+      {
+        "id": 112071,
+        "count": 5
+      },
+      {
+        "id": 112059,
+        "count": 3
+      }
+    ],
+    "coinCost": 10000,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 31.1
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL"
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT"
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+      }
+    ],
+    "unlockMaxLevel": 40,
+    "requiredPlayerLevel": 15
+  },
+  {
+    "weaponPromoteId": 14511,
+    "promoteLevel": 2,
+    "costItems": [
+      {
+        "id": 114042,
+        "count": 5
+      },
+      {
+        "id": 112071,
+        "count": 18
+      },
+      {
+        "id": 112059,
+        "count": 12
+      }
+    ],
+    "coinCost": 20000,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 62.2
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL"
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT"
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+      }
+    ],
+    "unlockMaxLevel": 50,
+    "requiredPlayerLevel": 25
+  },
+  {
+    "weaponPromoteId": 14511,
+    "promoteLevel": 3,
+    "costItems": [
+      {
+        "id": 114042,
+        "count": 9
+      },
+      {
+        "id": 112072,
+        "count": 9
+      },
+      {
+        "id": 112060,
+        "count": 9
+      }
+    ],
+    "coinCost": 30000,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 93.4
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL"
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT"
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+      }
+    ],
+    "unlockMaxLevel": 60,
+    "requiredPlayerLevel": 30
+  },
+  {
+    "weaponPromoteId": 14511,
+    "promoteLevel": 4,
+    "costItems": [
+      {
+        "id": 114043,
+        "count": 5
+      },
+      {
+        "id": 112072,
+        "count": 18
+      },
+      {
+        "id": 112060,
+        "count": 14
+      }
+    ],
+    "coinCost": 45000,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 124.5
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL"
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT"
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+      }
+    ],
+    "unlockMaxLevel": 70,
+    "requiredPlayerLevel": 35
+  },
+  {
+    "weaponPromoteId": 14511,
+    "promoteLevel": 5,
+    "costItems": [
+      {
+        "id": 114043,
+        "count": 9
+      },
+      {
+        "id": 112073,
+        "count": 14
+      },
+      {
+        "id": 112061,
+        "count": 9
+      }
+    ],
+    "coinCost": 55000,
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 155.6
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL"
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT"
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+      }
+    ],
+    "unlockMaxLevel": 80,
+    "requiredPlayerLevel": 40
+  },
+  {
+    "weaponPromoteId": 14511,//90级突破所需材料
+    "promoteLevel": 6,
+    "costItems": [
+      {
+        "id": 114044,
+        "count": 6
+      },
+      {
+        "id": 112073,
+        "count": 27
+      },
+      {
+        "id": 112061,
+        "count": 18
+      }
+    ],
+    "coinCost": 65000,//消耗摩拉
+    "addProps": [
+      {
+        "propType": "FIGHT_PROP_BASE_ATTACK",
+        "value": 186.7
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL"
+      },
+      {
+        "propType": "FIGHT_PROP_CRITICAL_HURT"
+      },
+      {
+        "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
+      },
+      {
+        "propType": "FIGHT_PROP_ELEMENT_MASTERY"
+      }
+    ],
+    "unlockMaxLevel": 90,//90级
+    "requiredPlayerLevel": 50
+  },
+  {
     "weaponPromoteId": 15101,
     "costItems": [
       {},
@@ -31421,7 +31681,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
@@ -31603,7 +31863,7 @@
     "addProps": [
       {
         "propType": "FIGHT_PROP_BASE_ATTACK",
-        "value": 35
+        "value": 35.0
       },
       {
         "propType": "FIGHT_PROP_CRITICAL"
