@@ -1,0 +1,27 @@
+{
+    "talkId": 30318,
+    "type": "FREE",
+    "dialogList": [
+        {
+            "id": 3031801,
+            "talkRole": {
+                "_type": "TALK_ROLE_NPC",
+                "_id": "1282"
+            },
+            "talkContentTextMapHash": 3373001883,
+            "talkAssetPath": "",
+            "talkAssetPathAlter": "",
+            "talkAudioName": "",
+            "actionBefore": "TEST/LerpInQueen",
+            "actionWhile": "",
+            "actionAfter": "",
+            "optionIcon": ""
+        }
+    ]
+}
+//任务ID  NPCid 区域id 神像id order id
+// 30318   1282  20     462   17
+// 30319   1283  21     463   18
+// 30320   1285  23     465   19
+// 30321   1286  24     471   20
+// 30322   1288  22     625   21
