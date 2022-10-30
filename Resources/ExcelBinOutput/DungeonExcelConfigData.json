@@ -4853,6 +4853,194 @@
     "JDFPHHGCNEN": ""
   },
   {
+    "id": 135,
+    "nameTextMapHash": 3725494960,
+    "displayNameTextMapHash": 3353820546,
+    "descTextMapHash": 945558909,
+    "type": "DUNGEON_BOSS",
+    "subType": "DUNGEON_SUB_BOSS",
+    "serialId": 1007,
+    "sceneId": 20154,
+    "involveType": "INVOLVE_SINGLE_MULTIPLE",
+    "showLevel": 60,
+    "limitLevel": 35,
+    "levelRevise": 59,
+    "passCond": 272,
+    "enterCostItems": [
+      {}
+    ],
+    "passRewardPreviewID": 15035,
+    "settleCountdownTime": 999,
+    "failSettleCountdownTime": 30,
+    "quitSettleCountdownTime": 30,
+    "settleShows": [
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE"
+    ],
+    "recommendElementTypes": [
+      "None",
+      "None",
+      "None",
+      "None"
+    ],
+    "EACHLAFMJPA": [],
+    "levelConfigMap": {
+      "1750": 100
+    },
+    "ODHBMBGAMJO": [
+      29070103
+    ],
+    "ANFMMBNPGPF": 1626584209,
+    "cityID": 4,
+    "entryPicPath": "UI_DungeonPic_WeekDungeon_Nada",
+    "stateType": "DUNGEON_STATE_RELEASE",
+    "FPAFPAAKOLJ": "",
+    "JDFPHHGCNEN": ""
+  },
+  {
+    "id": 136,
+    "nameTextMapHash": 3725494960,
+    "displayNameTextMapHash": 3353820546,
+    "descTextMapHash": 945558909,
+    "type": "DUNGEON_BOSS",
+    "subType": "DUNGEON_SUB_BOSS",
+    "serialId": 1007,
+    "sceneId": 20154,
+    "involveType": "INVOLVE_SINGLE_MULTIPLE",
+    "showLevel": 70,
+    "limitLevel": 40,
+    "levelRevise": 69,
+    "passCond": 272,
+    "enterCostItems": [
+      {}
+    ],
+    "passRewardPreviewID": 15035,
+    "settleCountdownTime": 999,
+    "failSettleCountdownTime": 30,
+    "quitSettleCountdownTime": 30,
+    "settleShows": [
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE"
+    ],
+    "recommendElementTypes": [
+      "None",
+      "None",
+      "None",
+      "None"
+    ],
+    "EACHLAFMJPA": [],
+    "levelConfigMap": {
+      "1750": 100
+    },
+    "ODHBMBGAMJO": [
+      29070103
+    ],
+    "ANFMMBNPGPF": 1626584209,
+    "cityID": 4,
+    "entryPicPath": "UI_DungeonPic_WeekDungeon_Nada",
+    "stateType": "DUNGEON_STATE_RELEASE",
+    "FPAFPAAKOLJ": "",
+    "JDFPHHGCNEN": ""
+  },
+  {
+    "id": 137,
+    "nameTextMapHash": 3725494960,
+    "displayNameTextMapHash": 3353820546,
+    "descTextMapHash": 945558909,
+    "type": "DUNGEON_BOSS",
+    "subType": "DUNGEON_SUB_BOSS",
+    "serialId": 1007,
+    "sceneId": 20154,
+    "involveType": "INVOLVE_SINGLE_MULTIPLE",
+    "showLevel": 80,
+    "limitLevel": 45,
+    "levelRevise": 79,
+    "passCond": 272,
+    "enterCostItems": [
+      {}
+    ],
+    "passRewardPreviewID": 15035,
+    "settleCountdownTime": 999,
+    "failSettleCountdownTime": 30,
+    "quitSettleCountdownTime": 30,
+    "settleShows": [
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE"
+    ],
+    "recommendElementTypes": [
+      "None",
+      "None",
+      "None",
+      "None"
+    ],
+    "EACHLAFMJPA": [],
+    "levelConfigMap": {
+      "1750": 100
+    },
+    "ODHBMBGAMJO": [
+      29070103
+    ],
+    "ANFMMBNPGPF": 1626584209,
+    "cityID": 4,
+    "entryPicPath": "UI_DungeonPic_WeekDungeon_Nada",
+    "stateType": "DUNGEON_STATE_RELEASE",
+    "FPAFPAAKOLJ": "",
+    "JDFPHHGCNEN": ""
+  },
+  {
+    "id": 138,
+    "nameTextMapHash": 3725494960,
+    "displayNameTextMapHash": 3353820546,
+    "descTextMapHash": 945558909,
+    "type": "DUNGEON_BOSS",
+    "subType": "DUNGEON_SUB_BOSS",
+    "serialId": 1007,
+    "sceneId": 20154,
+    "involveType": "INVOLVE_SINGLE_MULTIPLE",
+    "showLevel": 90,
+    "limitLevel": 50,
+    "levelRevise": 89,
+    "passCond": 272,
+    "enterCostItems": [
+      {}
+    ],
+    "passRewardPreviewID": 15035,
+    "settleCountdownTime": 999,
+    "failSettleCountdownTime": 30,
+    "quitSettleCountdownTime": 30,
+    "settleShows": [
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE",
+      "SETTLE_SHOW_NONE"
+    ],
+    "recommendElementTypes": [
+      "None",
+      "None",
+      "None",
+      "None"
+    ],
+    "EACHLAFMJPA": [],
+    "levelConfigMap": {
+      "1750": 100
+    },
+    "ODHBMBGAMJO": [
+      29070103
+    ],
+    "ANFMMBNPGPF": 1626584209,
+    "cityID": 4,
+    "entryPicPath": "UI_DungeonPic_WeekDungeon_Nada",
+    "stateType": "DUNGEON_STATE_RELEASE",
+    "FPAFPAAKOLJ": "",
+    "JDFPHHGCNEN": ""
+  },
+  {
     "id": 1000,
     "nameTextMapHash": 3498815912,
     "displayNameTextMapHash": 298577866,
